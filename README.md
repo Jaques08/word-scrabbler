@@ -29,3 +29,10 @@ sane soldered to shuffler
 ```
 ## Updating words
 Should there be new words to train against the text file can be copied into folder and renamed to `words.txt`
+
+## Developement
+
+To run tests run:
+```
+pytest tests.py 
+```
